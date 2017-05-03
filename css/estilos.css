@@ -2,6 +2,7 @@
 	background: url(../img/2.jpg);
 	background-repeat: no-repeat;
 	width: auto;
+	height: auto;
 	border-top: 3px solid gray;
 	border-bottom: 3px solid gray;
 	border-radius: 15px;
@@ -9,7 +10,10 @@
 .poslogo {
 	position: relative;
 	left: 7em;
-	bottom: 1em;
+	bottom: 2em;
 	color: white;
 	text-align: center;
+}
+.carru {
+	width: 100%;
 }
