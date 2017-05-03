@@ -1,19 +1,42 @@
 .fondo {
-	background: url(../img/2.jpg);
+	background: url(../img/fondo.jpg);
 	background-repeat: no-repeat;
 	width: auto;
 	height: auto;
-	border-top: 3px solid gray;
-	border-bottom: 3px solid gray;
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
 	border-radius: 15px;
+}
+.mov {
+	position: relative;
+	left: 1.5em;
+	margin-bottom: 1em
 }
 .poslogo {
 	position: relative;
-	left: 7em;
-	bottom: 2em;
+	left: 2em;
+	bottom: 0.7em;
 	color: white;
 	text-align: center;
+	width: 20em;
+}
+.descrip {
+position: relative;
+bottom: 4.8em;
+right: 3.5em;
+color: white;
+text-align: center;
 }
 .carru {
-	width: 100%;
+	border: 6px solid white;
+	position: relative;
+	bottom: .5em;
+}
+
+img.carru2 {
+	border: 3px solid gray;
+	border-radius: 15px;
+}
+body {
+	background-color: white;
 }
