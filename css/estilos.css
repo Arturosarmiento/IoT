@@ -1,18 +1,49 @@
 .fondo {
-	background: url(../img/2.jpg);
+	background: url(../img/fondo.jpg);
 	background-repeat: no-repeat;
 	width: auto;
-	border-top: 3px solid gray;
-	border-bottom: 3px solid gray;
+	height: auto;
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
 	border-radius: 15px;
+}
+.mov {
+	position: relative;
+	left: 1.5em;
+	margin-bottom: 1em
 }
 .poslogo {
 	position: relative;
-	left: 7em;
-	bottom: 1em;
+	left: 2em;
+	bottom: 0.7em;
 	color: white;
 	text-align: center;
+<<<<<<< HEAD
 }
 .abajo{
 	margin-top: 20em;
 }
+=======
+	width: 20em;
+}
+.descrip {
+position: relative;
+bottom: 4.8em;
+right: 3.5em;
+color: white;
+text-align: center;
+}
+.carru {
+	border: 6px solid white;
+	position: relative;
+	bottom: .5em;
+}
+
+img.carru2 {
+	border: 3px solid gray;
+	border-radius: 15px;
+}
+body {
+	background-color: white;
+}
+>>>>>>> 03b737921f823ad4cda6107f528497c6c3436d5b
