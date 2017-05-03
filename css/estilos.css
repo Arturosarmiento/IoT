@@ -14,22 +14,15 @@
 }
 .poslogo {
 	position: relative;
-	left: 2em;
 	bottom: 0.7em;
 	color: white;
 	text-align: center;
-<<<<<<< HEAD
-}
-.abajo{
-	margin-top: 20em;
-}
-=======
-	width: 20em;
+	width: 10em;
 }
 .descrip {
 position: relative;
 bottom: 4.8em;
-right: 3.5em;
+left: 10.5em;
 color: white;
 text-align: center;
 }
@@ -46,4 +39,3 @@ img.carru2 {
 body {
 	background-color: white;
 }
->>>>>>> 03b737921f823ad4cda6107f528497c6c3436d5b
